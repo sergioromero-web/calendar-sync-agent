@@ -144,13 +144,5 @@ const SOURCE = [
     colAvail:   'DISPONIBILIDAD',
     stateTab:   '_state_disponibilidad_pl'
   },
-  {
-  key: 'habyt_france',
-  sheetID: '11omVgpwyzc1nWdsHKreUVzSnLpGeQ1kfXZ7pmP8I814',
-  tab: 'Habyt France',
-  agentEmail: 'luca@spotahome.com',
-  colRuId: 'ru_id',
-  colAvail: 'Status',
-  stateTab: '_state_habyt_france'
-},// more sources from here
+  // more sources from here
 ];
